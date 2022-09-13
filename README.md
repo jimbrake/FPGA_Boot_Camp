@@ -2,6 +2,7 @@
 Boot camp for Digital Systems Education  
 Using a low cost FPGA board for learning digital electronics  
 Sponsored by a grant from the IEEE Computer Society for Emerging Technology  
-Next class registration pages to future classes are at  
-1st Saturday Aug. 27 https://events.vtools.ieee.org/m/321262  
-2nd Saturday Sept. 3 https://events.vtools.ieee.org/m/321263  
+Next class is Oct. 15.   
+Register per instructions from Proffessor Carol Redfield:  
+CRedfield@stmarytx.edu (best way to get to me)  
+https://stmarytx.zoom.us/my/credfield  
