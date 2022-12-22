@@ -9,3 +9,5 @@ https://tryengineering.org/tryengineering-community-resources/fpga_boot_camp-sli
 Download for Vivado only and Spartan 7 only is 11.59GB  
  e.g. do not download Vitis  
 Installed disk space is 33GB  
+### For a lower cost kit see the "20 Dollar Kit directory"  
+It has potential: 9K LUTs, DRAM & SD card slot  
